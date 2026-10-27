@@ -20,3 +20,4 @@ CampusExist is a student campus utility platform for IILM University. It support
 
 ## Ai used
 - ChatGPT
+- Claude
